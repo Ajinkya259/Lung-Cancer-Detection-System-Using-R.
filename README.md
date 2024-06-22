@@ -24,3 +24,12 @@ Note:-
 Ensure your dataset is appropriately formatted and contains relevant features for lung cancer detection.
 Customize the script to suit your specific dataset and analysis requirements.
 Refer to the comments in the script for detailed explanations of each step and function.
+
+
+
+
+Snapshots:
+<img width="1680" alt="Screenshot 2024-06-22 at 11 34 50 AM" src="https://github.com/Ajinkya259/Lung-Cancer-Detection-System-Using-R./assets/163128787/89314ac5-caab-434f-b893-7f7f0d097b2d">
+<img width="1680" alt="Screenshot 2024-06-22 at 11 35 14 AM" src="https://github.com/Ajinkya259/Lung-Cancer-Detection-System-Using-R./assets/163128787/7104c1e4-22d0-4dc6-9138-703d44b5755c">
+<img width="1680" alt="Screenshot 2024-06-22 at 11 35 22 AM" src="https://github.com/Ajinkya259/Lung-Cancer-Detection-System-Using-R./assets/163128787/780b08df-7ce7-44c3-9bb2-733ee7c3c9bb">
+
